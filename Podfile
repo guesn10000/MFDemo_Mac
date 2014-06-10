@@ -1,0 +1,1 @@
+pod 'GDataXML-HTML', '~> 1.1.0'
